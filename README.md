@@ -30,7 +30,7 @@
 
 1. Склонируйте репозиторий на свой компьютер:
    ```bash
-   git clone [https://github.com/DanyokPenyok/Anomaly.git](https://github.com/DanyokPenyok/Anomaly.git)
+   git clone https://github.com/DanyokPenyok/Anomaly
    
 2. Установите необходимые расширения:
    ```bash
